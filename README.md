@@ -1,6 +1,6 @@
 # SortWise AI
 
-SortWise AI is a smart garbage sorting assistant for Nishinomiya City, Japan. It uses Google's Gemini AI to help you determine the correct garbage category for any item, based on the latest local regulations.
+[SortWise AI](https://viosonlee.github.io/sortwise-ai/) is a smart garbage sorting assistant for Nishinomiya City, Japan. It uses Google's Gemini AI to help you determine the correct garbage category for any item, based on the latest local regulations.
 
 ## Features
 
